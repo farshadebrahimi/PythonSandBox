@@ -1,2 +1,2 @@
-#Testing Pycharm
-Print("Hello World!")
+#import Numpy
+import numpy as np
